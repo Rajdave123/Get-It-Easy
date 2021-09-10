@@ -1,0 +1,2 @@
+# Get-It-Easy
+"Get It Easy" is an online auction website aimed at taking the auction to the fingertips of aspiring bidders by opening up the doors of the "OPEN Auction House' to a wider cross section of Art Lovers and Antique Collectors. This site also acts as an open forum where buyers and sellers can come together and exchange their products. The site makes sure that the sellers get a fair deal and buyers get a genuine product.
